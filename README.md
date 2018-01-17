@@ -26,3 +26,9 @@ $  curl -o .gitignore \
 - [sonnet_18.jpg](//compciv.github.io/stash/sonnet_18.jpg)
 - [sonnet_18.txt](//compciv.github.io/stash/sonnet_18.txt)
 - [vintage-flickrs.zip](//compciv.github.io/stash/vintage-flickrs.zip)
+
+#### Videos
+
+- [debate-dem-fight.mp4](//compciv.github.io/stash/videos/debate-dem-fight.mp4)
+- [debate-repub-geo.mp4](//compciv.github.io/stash/videos/debate-repub-geo.mp4)
+- [debate-repub-people.mp4](//compciv.github.io/stash/videos/debate-repub-people.mp4)
