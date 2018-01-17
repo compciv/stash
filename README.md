@@ -22,6 +22,7 @@ $  curl -o .gitignore \
 - [compciv.gitignore](//compciv.github.io/stash/compciv.gitignore)
 - [cat.jpg](//compciv.github.io/stash/cat.jpg)
 - [dog.jpg](//compciv.github.io/stash/dog.jpg)
+- [flagstar.png](//compciv.github.io/stash/flagstar.png)
 - [sonnet_18.html](//compciv.github.io/stash/sonnet_18.html)
 - [sonnet_18.jpg](//compciv.github.io/stash/sonnet_18.jpg)
 - [sonnet_18.txt](//compciv.github.io/stash/sonnet_18.txt)
@@ -32,3 +33,8 @@ $  curl -o .gitignore \
 - [debate-dem-fight.mp4](//compciv.github.io/stash/videos/debate-dem-fight.mp4)
 - [debate-repub-geo.mp4](//compciv.github.io/stash/videos/debate-repub-geo.mp4)
 - [debate-repub-people.mp4](//compciv.github.io/stash/videos/debate-repub-people.mp4)
+
+
+## Notes
+
+The [flagstar.png](flagstar.png) comes courtesy of WikiCommons user [Bearas](https://commons.wikimedia.org/wiki/User:Bearas), who [has licensed his work under CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:Usa-star-flag.png)
