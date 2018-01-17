@@ -30,11 +30,24 @@ $  curl -o .gitignore \
 
 #### Videos
 
-- [debate-dem-fight.mp4](//compciv.github.io/stash/videos/debate-dem-fight.mp4)
-- [debate-repub-geo.mp4](//compciv.github.io/stash/videos/debate-repub-geo.mp4)
-- [debate-repub-people.mp4](//compciv.github.io/stash/videos/debate-repub-people.mp4)
+- [debate-dem-fight.mp4](//compciv.github.io/stash/media/debate-dem-fight.mp4)
+- [debate-repub-geo.mp4](//compciv.github.io/stash/media/debate-repub-geo.mp4)
+- [debate-repub-people.mp4](//compciv.github.io/stash/media/debate-repub-people.mp4)
+
+
+#### Music
+
+[chopin-prelude-28-no-7.mp3](//compciv.github.io/stash/media/chopin-prelude-28-no-7.mp3)
+[chopin-prelude-28-no-7.ogg](//compciv.github.io/stash/media/chopin-prelude-28-no-7.ogg)
+[this-land-is-your-land.mp3](//compciv.github.io/stash/media/this-land-is-your-land.mp3)
+[this-land-is-your-land.ogg](//compciv.github.io/stash/media/this-land-is-your-land.ogg)
 
 
 ## Notes
 
 The [flagstar.png](flagstar.png) comes courtesy of WikiCommons user [Bearas](https://commons.wikimedia.org/wiki/User:Bearas), who [has licensed his work under CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:Usa-star-flag.png)
+
+
+"This Land is Your Land" by Woody Guthrie comes from the [Internet Archive Woody Guthrie collection](https://archive.org/details/WoodyGuthrieSongs)
+
+The Chopin pieces come from the [Musopen Project](https://archive.org/details/musopen-chopin)
