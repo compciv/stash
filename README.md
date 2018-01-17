@@ -1,11 +1,17 @@
 # CompCiv File Stash (Stanford Journalism)
 
-Files and other sundries for use in Stanford Journalism COMM 113/213 https://www.compciv.org
+Files and other sundries for use in Stanford Journalism COMM 113/213 
 
-## Sample usage
+https://www.compciv.org
+
+
+## Useful usage
+
+Of particular use for students taking the class is the [.gitignore](.gitignore) file that should be copied for use in homework repos. 
+
 
 ```sh
-$  curl -O https://compciv.github.io/stash/sonnet_18.txt
+$  curl -O https://compciv.github.io/stash/.gitignore
 ```
 
 ## Inventory
