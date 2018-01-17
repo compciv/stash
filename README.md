@@ -10,6 +10,7 @@ $  curl -O https://compciv.github.io/stash/sonnet_18.txt
 
 ## Inventory
 
+- [.gitignore](//compciv.github.io/stash/.gitignore)
 - [cat.jpg](//compciv.github.io/stash/cat.jpg)
 - [sonnet_18.html](//compciv.github.io/stash/sonnet_18.html)
 - [sonnet_18.jpg](//compciv.github.io/stash/sonnet_18.jpg)
