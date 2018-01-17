@@ -14,7 +14,7 @@ Of particular use for students taking the class is the [compciv.gitignore](compc
 
 ```sh
 $  curl -o .gitignore \
-     https://compciv.github.io/stash/.gitignore
+     https://compciv.github.io/stash/compciv.gitignore
 ```
 
 ## Inventory
