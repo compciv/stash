@@ -27,17 +27,14 @@ You can also copy-paste my VS Code user settings at [vscode-user-settings.json](
 - [compciv.gitignore](//compciv.github.io/stash/configs/compciv.gitignore)
 - [vscode-user-settings.json](//compciv.github.io/stash/configs/vscode-user-settings.json)
 
-### Data files
 
-- [ssa-nationwide-babynames.zip](//compciv.github.io/stash/ssa-nationwide-babynames.zip)
-
-### Misc. files
+### Images
 
 - [cat.jpg](//compciv.github.io/stash/cat.jpg)
 - [dog.jpg](//compciv.github.io/stash/dog.jpg)
 - [flagstar.png](//compciv.github.io/stash/flagstar.png)
 
-#### Sonnets
+### Sonnets
 
 - [sonnets/18.docx](//compciv.github.io/stash/sonnets/18.docx)
 - [sonnets/18.html](//compciv.github.io/stash/sonnets/18.html)
@@ -47,6 +44,9 @@ You can also copy-paste my VS Code user settings at [vscode-user-settings.json](
 
 ------------
 
+### Data and other packages
+
+- [data/ssa-nationwide-babynames.zip](//compciv.github.io/stash/data/ssa-nationwide-babynames.zip)
 - [matty.shakespeare.zip](//compciv.github.io/stash/matty.shakespeare.zip)
 - [vintage-flickrs.zip](//compciv.github.io/stash/vintage-flickrs.zip)
 
