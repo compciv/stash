@@ -7,15 +7,17 @@ https://www.compciv.org
 
 ## Useful usage
 
-Of particular use for students taking the class is the [compciv.gitignore](configs/compciv.gitignore) file that should be copied for use in homework repos. 
+Of particular use for students taking the class are the configurations, such as [compciv.gitignore](configs/compciv.gitignore) file that should be copied for use in homework repos. 
 
 (Save it as `.gitignore` in your own repo of course)
 
 
 ```sh
-$  curl -o .gitignore \
-     https://compciv.github.io/stash/configs/compciv.gitignore
+$  curl -o .gitignore https://compciv.github.io/stash/configs/compciv.gitignore
 ```
+
+You can also copy-paste my VS Code user settings at [vscode-user-settings.json](configs/vscode-user-settings.json)
+
 
 ## Inventory
 
@@ -25,14 +27,27 @@ $  curl -o .gitignore \
 - [compciv.gitignore](//compciv.github.io/stash/configs/compciv.gitignore)
 - [vscode-user-settings.json](//compciv.github.io/stash/configs/vscode-user-settings.json)
 
-### Files and sundries
+### Data files
+
+- [ssa-nationwide-babynames.zip](//compciv.github.io/stash/ssa-nationwide-babynames.zip)
+
+### Misc. files
 
 - [cat.jpg](//compciv.github.io/stash/cat.jpg)
 - [dog.jpg](//compciv.github.io/stash/dog.jpg)
 - [flagstar.png](//compciv.github.io/stash/flagstar.png)
-- [sonnet_18.html](//compciv.github.io/stash/sonnet_18.html)
-- [sonnet_18.jpg](//compciv.github.io/stash/sonnet_18.jpg)
-- [sonnet_18.txt](//compciv.github.io/stash/sonnet_18.txt)
+
+#### Sonnets
+
+- [sonnets/18.docx](//compciv.github.io/stash/sonnets/18.docx)
+- [sonnets/18.html](//compciv.github.io/stash/sonnets/18.html)
+- [sonnets/18.jpg](//compciv.github.io/stash/sonnets/18.jpg)
+- [sonnets/18.pdf](//compciv.github.io/stash/sonnets/18.pdf)
+- [sonnets/18.txt](//compciv.github.io/stash/sonnets/18.txt)
+
+------------
+
+- [matty.shakespeare.zip](//compciv.github.io/stash/matty.shakespeare.zip)
 - [vintage-flickrs.zip](//compciv.github.io/stash/vintage-flickrs.zip)
 
 ### Videos
