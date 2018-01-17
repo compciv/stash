@@ -7,16 +7,19 @@ https://www.compciv.org
 
 ## Useful usage
 
-Of particular use for students taking the class is the [.gitignore](.gitignore) file that should be copied for use in homework repos. 
+Of particular use for students taking the class is the [compciv.gitignore](compciv.gitignore) file that should be copied for use in homework repos. 
+
+(Save it as `.gitignore` in your own repo of course)
 
 
 ```sh
-$  curl -O https://compciv.github.io/stash/.gitignore
+$  curl -o .gitignore \
+     https://compciv.github.io/stash/.gitignore
 ```
 
 ## Inventory
 
-- [.gitignore](//compciv.github.io/stash/.gitignore)
+- [compciv.gitignore](//compciv.github.io/stash/compciv.gitignore)
 - [cat.jpg](//compciv.github.io/stash/cat.jpg)
 - [sonnet_18.html](//compciv.github.io/stash/sonnet_18.html)
 - [sonnet_18.jpg](//compciv.github.io/stash/sonnet_18.jpg)
