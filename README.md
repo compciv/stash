@@ -21,6 +21,7 @@ $  curl -o .gitignore \
 
 - [compciv.gitignore](//compciv.github.io/stash/compciv.gitignore)
 - [cat.jpg](//compciv.github.io/stash/cat.jpg)
+- [dog.jpg](//compciv.github.io/stash/dog.jpg)
 - [sonnet_18.html](//compciv.github.io/stash/sonnet_18.html)
 - [sonnet_18.jpg](//compciv.github.io/stash/sonnet_18.jpg)
 - [sonnet_18.txt](//compciv.github.io/stash/sonnet_18.txt)
