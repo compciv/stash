@@ -64,6 +64,10 @@ You can also copy-paste my VS Code user settings at [vscode-user-settings.json](
 - [this-land-is-your-land.mp3](//compciv.github.io/stash/media/this-land-is-your-land.mp3)
 - [this-land-is-your-land.ogg](//compciv.github.io/stash/media/this-land-is-your-land.ogg)
 
+### Other
+
+- [hello.html](//compciv.github.io/stash/hello.html)
+
 
 ## Notes
 
