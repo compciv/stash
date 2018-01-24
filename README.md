@@ -34,6 +34,7 @@ You can also copy-paste my VS Code user settings at [vscode-user-settings.json](
 - [dog.jpg](//compciv.github.io/stash/dog.jpg)
 - [flagstar.png](//compciv.github.io/stash/flagstar.png)
 - [obama.jpg](//compciv.github.io/stash/obama.jpg)
+- [quad.jpg](//compciv.github.io/stash/quad.jpg)
 - [rosie.jpg](//compciv.github.io/stash/rosie.jpg)
 - [smile.png](//compciv.github.io/stash/smile.png)
 - [trump.jpg](//compciv.github.io/stash/trump.jpg)
