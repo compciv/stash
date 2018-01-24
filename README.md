@@ -33,6 +33,7 @@ You can also copy-paste my VS Code user settings at [vscode-user-settings.json](
 - [cat.jpg](//compciv.github.io/stash/cat.jpg)
 - [dog.jpg](//compciv.github.io/stash/dog.jpg)
 - [flagstar.png](//compciv.github.io/stash/flagstar.png)
+- [smile.png](//compciv.github.io/stash/smile.png)
 
 ### Sonnets
 
