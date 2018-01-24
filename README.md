@@ -33,7 +33,10 @@ You can also copy-paste my VS Code user settings at [vscode-user-settings.json](
 - [cat.jpg](//compciv.github.io/stash/cat.jpg)
 - [dog.jpg](//compciv.github.io/stash/dog.jpg)
 - [flagstar.png](//compciv.github.io/stash/flagstar.png)
+- [obama.jpg](//compciv.github.io/stash/obama.jpg)
+- [rosie.jpg](//compciv.github.io/stash/rosie.jpg)
 - [smile.png](//compciv.github.io/stash/smile.png)
+- [trump.jpg](//compciv.github.io/stash/trump.jpg)
 
 ### Sonnets
 
@@ -78,3 +81,5 @@ The [flagstar.png](flagstar.png) comes courtesy of WikiCommons user [Bearas](htt
 "This Land is Your Land" by Woody Guthrie comes from the [Internet Archive Woody Guthrie collection](https://archive.org/details/WoodyGuthrieSongs)
 
 The Chopin pieces come from the [Musopen Project](https://archive.org/details/musopen-chopin)
+
+While some versions of the "Rosie the Riveter" poster are private works under copyright, the [best known -- by Howard Miller -- is in the public domain](https://en.wikipedia.org/wiki/Rosie_the_Riveter#/media/File:We_Can_Do_It!.jpg).
