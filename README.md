@@ -49,11 +49,6 @@ You can also copy-paste my VS Code user settings at [vscode-user-settings.json](
 
 ------------
 
-### Data and other packages
-
-- [data/ssa-nationwide-babynames.zip](//compciv.github.io/stash/data/ssa-nationwide-babynames.zip)
-- [matty.shakespeare.zip](//compciv.github.io/stash/matty.shakespeare.zip)
-- [vintage-flickrs.zip](//compciv.github.io/stash/vintage-flickrs.zip)
 
 ### Videos
 
@@ -72,6 +67,30 @@ You can also copy-paste my VS Code user settings at [vscode-user-settings.json](
 ### Other
 
 - [hello.html](//compciv.github.io/stash/hello.html)
+
+
+### Data and other packages
+
+- [data/ssa-nationwide-babynames.zip](//compciv.github.io/stash/data/ssa-nationwide-babynames.zip)
+- [matty.shakespeare.zip](//compciv.github.io/stash/matty.shakespeare.zip)
+- [vintage-flickrs.zip](//compciv.github.io/stash/vintage-flickrs.zip)
+
+
+#### Congress
+
+This data comes courtesy of the folks at the [unitedstates/congress-legislators repo](https://github.com/unitedstates/congress-legislators)
+
+- [data/congress/basic-senators.csv](//compciv.github.io/stash/data/congress/basic-senators.csv) -- a CSV with just a few columns
+- [data/congress/dougjones.json](//compciv.github.io/stash/data/congress/dougjones.json)
+- [data/congress/few-senators.json](//compciv.github.io/stash/data/congress/few-senators.json)
+- [data/congress/legislators-current.csv](//compciv.github.io/stash/data/congress/legislators-current.csv) -- the entire spreadsheet from unitedstates/congress-legislators
+- [data/congress/legislators-current.json](//compciv.github.io/stash/data/congress/legislators-current.json) -- same as the CSV, except in JSON form, with more granular and in-depth data
+- [data/congress/sample-bioguide-ids.txt](//compciv.github.io/stash/data/congress/sample-bioguide-ids.txt) -- a list of 5 bioguide IDs. Perfect for practice.
+- [data/congress/senate-bioguide-ids.txt](//compciv.github.io/stash/data/congress/senate-bioguide-ids.txt) --  a list of the 100 bioguide IDs for the U.S. Senate
+- [data/congress/senators.json](//compciv.github.io/stash/data/congress/senators.json)
+
+
+
 
 
 ## Notes

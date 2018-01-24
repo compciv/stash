@@ -1,0 +1,311 @@
+[
+  {
+    "id": {
+      "bioguide": "G000386",
+      "thomas": "00457",
+      "lis": "S153",
+      "govtrack": 300048,
+      "opensecrets": "N00001758",
+      "votesmart": 53293,
+      "icpsr": 14226,
+      "fec": [
+        "S0IA00028"
+      ],
+      "cspan": 1167,
+      "wikipedia": "Chuck Grassley",
+      "house_history": 14050,
+      "ballotpedia": "Chuck Grassley",
+      "maplight": 570,
+      "wikidata": "Q529294",
+      "google_entity_id": "kg:/m/020ymy"
+    },
+    "name": {
+      "first": "Charles",
+      "middle": "E.",
+      "last": "Grassley",
+      "nickname": "Chuck",
+      "official_full": "Chuck Grassley"
+    },
+    "bio": {
+      "birthday": "1933-09-17",
+      "gender": "M",
+      "religion": "Baptist"
+    },
+    "terms": [
+      {
+        "type": "rep",
+        "start": "1975-01-14",
+        "end": "1977-01-03",
+        "state": "IA",
+        "district": 3,
+        "party": "Republican"
+      },
+      {
+        "type": "rep",
+        "start": "1977-01-04",
+        "end": "1979-01-03",
+        "state": "IA",
+        "district": 3,
+        "party": "Republican"
+      },
+      {
+        "type": "rep",
+        "start": "1979-01-15",
+        "end": "1981-01-03",
+        "state": "IA",
+        "district": 3,
+        "party": "Republican"
+      },
+      {
+        "type": "sen",
+        "start": "1981-01-05",
+        "end": "1987-01-03",
+        "state": "IA",
+        "class": 3,
+        "party": "Republican"
+      },
+      {
+        "type": "sen",
+        "start": "1987-01-06",
+        "end": "1993-01-03",
+        "state": "IA",
+        "class": 3,
+        "party": "Republican"
+      },
+      {
+        "type": "sen",
+        "start": "1993-01-05",
+        "end": "1999-01-03",
+        "state": "IA",
+        "class": 3,
+        "party": "Republican"
+      },
+      {
+        "type": "sen",
+        "start": "1999-01-06",
+        "end": "2005-01-03",
+        "state": "IA",
+        "class": 3,
+        "party": "Republican",
+        "url": "http://grassley.senate.gov/"
+      },
+      {
+        "type": "sen",
+        "start": "2005-01-04",
+        "end": "2011-01-03",
+        "state": "IA",
+        "class": 3,
+        "party": "Republican",
+        "url": "http://grassley.senate.gov"
+      },
+      {
+        "type": "sen",
+        "start": "2011-01-05",
+        "end": "2017-01-03",
+        "state": "IA",
+        "class": 3,
+        "party": "Republican",
+        "url": "http://www.grassley.senate.gov",
+        "address": "135 Hart Senate Office Building Washington DC 20510",
+        "phone": "202-224-3744",
+        "fax": "202-224-6020",
+        "contact_form": "http://www.grassley.senate.gov/constituents/questions-and-comments",
+        "office": "135 Hart Senate Office Building",
+        "state_rank": "senior",
+        "rss_url": "http://grassley.senate.gov/customcf/rss_feed.cfm"
+      },
+      {
+        "type": "sen",
+        "start": "2017-01-03",
+        "end": "2023-01-03",
+        "state": "IA",
+        "class": 3,
+        "state_rank": "senior",
+        "party": "Republican",
+        "url": "https://www.grassley.senate.gov",
+        "rss_url": "http://grassley.senate.gov/customcf/rss_feed.cfm",
+        "address": "135 Hart Senate Office Building Washington DC 20510",
+        "office": "135 Hart Senate Office Building",
+        "phone": "202-224-3744",
+        "contact_form": "http://www.grassley.senate.gov/contact",
+        "fax": "202-224-6020"
+      }
+    ]
+  },
+  {
+    "id": {
+      "govtrack": 412508,
+      "bioguide": "C001095",
+      "thomas": "02098",
+      "cspan": 63928,
+      "votesmart": 135651,
+      "wikipedia": "Tom Cotton",
+      "fec": [
+        "H2AR04083",
+        "S4AR00103"
+      ],
+      "opensecrets": "N00033363",
+      "ballotpedia": "Tom Cotton",
+      "maplight": 1732,
+      "icpsr": 21301,
+      "lis": "S374",
+      "wikidata": "Q3090307",
+      "google_entity_id": "kg:/m/02g3ds"
+    },
+    "name": {
+      "first": "Tom",
+      "last": "Cotton",
+      "official_full": "Tom Cotton"
+    },
+    "bio": {
+      "gender": "M",
+      "birthday": "1977-05-13"
+    },
+    "terms": [
+      {
+        "type": "rep",
+        "start": "2013-01-03",
+        "end": "2015-01-03",
+        "state": "AR",
+        "party": "Republican",
+        "district": 4,
+        "office": "415 Cannon House Office Building",
+        "address": "415 Cannon HOB; Washington DC 20515-0404",
+        "phone": "202-225-3772",
+        "url": "http://cotton.house.gov",
+        "rss_url": "http://cotton.house.gov/rss.xml",
+        "contact_form": "https://cotton.house.gov/contact/email-me"
+      },
+      {
+        "type": "sen",
+        "start": "2015-01-06",
+        "end": "2021-01-03",
+        "state": "AR",
+        "class": 2,
+        "state_rank": "junior",
+        "party": "Republican",
+        "url": "https://www.cotton.senate.gov",
+        "address": "124 Russell Senate Office Building Washington DC 20510",
+        "office": "124 Russell Senate Office Building",
+        "phone": "202-224-2353",
+        "contact_form": "http://www.cotton.senate.gov/?p=contact"
+      }
+    ]
+  },
+  {
+    "id": {
+      "govtrack": 412533,
+      "bioguide": "D000622",
+      "thomas": "02123",
+      "cspan": 94484,
+      "opensecrets": "N00027860",
+      "votesmart": 57442,
+      "wikipedia": "Tammy Duckworth",
+      "fec": [
+        "H6IL06141",
+        "S6IL00292"
+      ],
+      "ballotpedia": "Tammy Duckworth",
+      "maplight": 1757,
+      "icpsr": 21325,
+      "house_history": 15032387037,
+      "wikidata": "Q3036410",
+      "google_entity_id": "kg:/m/09vqjr",
+      "lis": "S386"
+    },
+    "name": {
+      "first": "Tammy",
+      "last": "Duckworth",
+      "official_full": "Tammy Duckworth"
+    },
+    "bio": {
+      "gender": "F",
+      "birthday": "1968-03-12"
+    },
+    "terms": [
+      {
+        "type": "rep",
+        "start": "2013-01-03",
+        "end": "2015-01-03",
+        "state": "IL",
+        "party": "Democrat",
+        "district": 8,
+        "office": "104 Cannon House Office Building",
+        "address": "104 Cannon HOB; Washington DC 20515-1308",
+        "phone": "202-225-3711",
+        "url": "http://duckworth.house.gov",
+        "rss_url": "http://duckworth.house.gov/rss.xml",
+        "contact_form": "https://duckworth.house.gov/contact/email-me"
+      },
+      {
+        "type": "rep",
+        "start": "2015-01-06",
+        "end": "2017-01-03",
+        "state": "IL",
+        "party": "Democrat",
+        "district": 8,
+        "office": "104 Cannon House Office Building",
+        "address": "104 Cannon HOB; Washington DC 20515-1308",
+        "phone": "202-225-3711",
+        "url": "http://duckworth.house.gov",
+        "rss_url": "http://duckworth.house.gov/rss.xml",
+        "contact_form": "https://duckworth.house.gov/contact/email-me"
+      },
+      {
+        "type": "sen",
+        "start": "2017-01-03",
+        "end": "2023-01-03",
+        "state": "IL",
+        "class": 3,
+        "state_rank": "junior",
+        "party": "Democrat",
+        "address": "524 Hart Senate Office Building Washington DC 20510",
+        "office": "524 Hart Senate Office Building",
+        "phone": "202-224-2854",
+        "url": "https://www.duckworth.senate.gov",
+        "contact_form": "https://www.duckworth.senate.gov/content/contact-senator"
+      }
+    ]
+  },
+  {
+    "id": {
+      "bioguide": "J000300",
+      "lis": "S393",
+      "govtrack": 412741,
+      "fec": [
+        "S0AL00156"
+      ],
+      "wikipedia": "Doug Jones (politician)",
+      "wikidata": "Q30122825",
+      "cspan": 1024592,
+      "votesmart": 176464,
+      "ballotpedia": "Doug Jones (Alabama)",
+      "google_entity_id": "kg:/g/11dyzdzg1j",
+      "maplight": 2252,
+      "opensecrets": "N00024817"
+    },
+    "name": {
+      "first": "Doug",
+      "last": "Jones",
+      "official_full": "Doug Jones"
+    },
+    "bio": {
+      "birthday": "1954-05-04",
+      "gender": "M"
+    },
+    "terms": [
+      {
+        "type": "sen",
+        "start": "2018-01-03",
+        "end": "2021-01-03",
+        "state": "AL",
+        "class": 2,
+        "party": "Democrat",
+        "state_rank": "junior",
+        "address": "326 Russell Senate Office Building Washington DC 20510",
+        "office": "326 Russell Senate Office Building",
+        "phone": "202-224-4121"
+      }
+    ]
+  }
+]
