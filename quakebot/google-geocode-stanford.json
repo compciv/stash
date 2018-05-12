@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Stanford",
+               "short_name" : "Stanford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santa Clara County",
+               "short_name" : "Santa Clara County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Stanford, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.4435369,
+                  "lng" : -122.149475
+               },
+               "southwest" : {
+                  "lat" : 37.4063388,
+                  "lng" : -122.191292
+               }
+            },
+            "location" : {
+               "lat" : 37.42410599999999,
+               "lng" : -122.1660756
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.4435369,
+                  "lng" : -122.149475
+               },
+               "southwest" : {
+                  "lat" : 37.4063388,
+                  "lng" : -122.191292
+               }
+            }
+         },
+         "place_id" : "ChIJzd7xXsm6j4ARUp8sFUMNrWs",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
